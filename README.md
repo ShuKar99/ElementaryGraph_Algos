@@ -1,5 +1,5 @@
 # ElementaryGraph_Algos
-Implemented various graph algorithms. From BFS, DFS to Djikstra and Prim
+Implemented various graph algorithms. From BFS, DFS to Kruskal and Prim
 
 Module 1
 
